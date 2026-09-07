@@ -1,2 +1,2 @@
-project status:development
-status: feature one
+project status: development
+status: feature one and  feature two
